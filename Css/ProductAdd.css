@@ -1,0 +1,32 @@
+.hdr
+{
+	position: relative;
+}
+
+.btn
+{
+	position: absolute;
+	top: 0;
+	right: 1%;
+}
+
+
+.Type
+{
+    display: none;
+}
+
+label {
+    min-width: 8%;
+    display:inline-block  ;
+}
+
+#product-form input{
+     margin-bottom: 5%;
+    width: 20%;
+    float      : right;
+  transform  : translateY(-.3em);
+}
+.Type input {
+    width: 5em;
+}

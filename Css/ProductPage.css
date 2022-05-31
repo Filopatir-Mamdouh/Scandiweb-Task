@@ -1,0 +1,30 @@
+.hdr
+{
+	position: relative;
+}
+
+.btn
+{
+	position: absolute;
+	top: 0;
+	right: 1%;
+}
+
+#products
+{
+	margin-top: 2.5%;
+	margin: auto;
+	width: 100%;
+	display: table;
+	border-collapse: collapse;
+}
+.TableRow {
+    display: table-row;
+}
+.item
+{
+	height: 15%;
+	width: 20%;
+	display: table-cell;
+	border: solid #000;
+}
